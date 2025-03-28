@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; 
+}
+
+.caja1 {
+    height: 900px;
+    width: 100%;
+    background: #405DE6;
+    border: #000 solid;
+}
+.caja2 {
+    height: 120px;
+    width: 100%;
+    background: #405DE6;
+    border: #000 solid;
+}
+.caja3 {
+    height: 600px;
+    width: 100%;
+    background: #405DE6;
+    border: #000 solid;
+}
+.caja4 {
+    height: 120px;
+    width: 100%;
+    background: #405DE6;
+    border: #000 solid;
+}
